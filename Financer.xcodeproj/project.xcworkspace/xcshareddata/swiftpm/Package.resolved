@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Charts",
+        "repositoryURL": "https://github.com/danielgindi/Charts.git",
+        "state": {
+          "branch": null,
+          "revision": "dbf7fa2891270f88aeafc872ea0beddb344af94b",
+          "version": "3.4.0"
+        }
+      },
+      {
+        "package": "TinyConstraints",
+        "repositoryURL": "https://github.com/roberthein/TinyConstraints.git",
+        "state": {
+          "branch": null,
+          "revision": "f413ea53b886de81b925eeb37a14538fe6ae4912",
+          "version": "4.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
